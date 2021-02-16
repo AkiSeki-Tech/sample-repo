@@ -1,2 +1,2 @@
 # sample-repo
-gitの練習用
+Git練習用
